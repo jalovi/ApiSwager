@@ -3,6 +3,7 @@ Proyecto ofrecido para una beca.
 
 La empresa me adjuntó el codigo en swagger, mediante spring y jpa. 
 
+```swagger
 {
   "swagger": "2.0",
   "info": {
@@ -195,3 +196,4 @@ La empresa me adjuntó el codigo en swagger, mediante spring y jpa.
     }
   }
 }
+´´´
